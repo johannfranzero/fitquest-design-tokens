@@ -1,0 +1,28 @@
+{
+  "fontFamilies": {
+    "sans": "Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif",
+    "mono": "'SF Mono', Monaco, 'Cascadia Code', 'Roboto Mono', Consolas, monospace"
+  },
+  "fontSizes": {
+    "display": { "value": "48px", "description": "Large display text" },
+    "h1": { "value": "32px", "description": "Main headings" },
+    "h2": { "value": "24px", "description": "Section headings" },
+    "h3": { "value": "20px", "description": "Subsection headings" },
+    "body-lg": { "value": "18px", "description": "Large body text" },
+    "body": { "value": "16px", "description": "Standard body text" },
+    "body-sm": { "value": "14px", "description": "Small body text" },
+    "caption": { "value": "12px", "description": "Captions and labels" }
+  },
+  "fontWeights": {
+    "light": "300",
+    "regular": "400",
+    "medium": "500",
+    "semibold": "600",
+    "bold": "700"
+  },
+  "lineHeights": {
+    "tight": "1.2",
+    "normal": "1.5",
+    "relaxed": "1.75"
+  }
+}
