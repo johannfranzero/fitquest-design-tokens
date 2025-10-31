@@ -1,0 +1,75 @@
+{
+  "FitQuest": {
+    "colors": {
+      "primary": {
+        "50": "#f0f4ff",
+        "100": "#e1e8ff",
+        "500": "#4a6cf7",
+        "600": "#3a52e5"
+      },
+      "success": {
+        "500": "#2ECC71",
+        "600": "#16a34a"
+      },
+      "neutral": {
+        "50": "#f8f9fa",
+        "100": "#f1f3f4",
+        "500": "#9aa0a6",
+        "700": "#5f6368",
+        "900": "#202124"
+      },
+      "semantic": {
+        "background": "{colors.neutral.50}",
+        "surface": "#ffffff",
+        "text-primary": "{colors.neutral.900}",
+        "text-secondary": "{colors.neutral.700}",
+        "text-disabled": "{colors.neutral.500}",
+        "border": "{colors.neutral.300}"
+      }
+    },
+    "typography": {
+      "heading": {
+        "h1": {
+          "fontSize": "24px",
+          "fontWeight": "700",
+          "lineHeight": "1.25"
+        },
+        "h2": {
+          "fontSize": "20px",
+          "fontWeight": "600",
+          "lineHeight": "1.3"
+        }
+      },
+      "body": {
+        "large": {
+          "fontSize": "18px",
+          "fontWeight": "400",
+          "lineHeight": "1.5"
+        },
+        "base": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "1.5"
+        },
+        "small": {
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "lineHeight": "1.4"
+        }
+      },
+      "button": {
+        "primary": {
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "lineHeight": "1.5"
+        }
+      }
+    },
+    "spacing": {
+      "section": "24px",
+      "card": "16px",
+      "element": "12px",
+      "input": "16px"
+    }
+  }
+}
