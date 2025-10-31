@@ -1,0 +1,13 @@
+{
+  "name": "fitquest-design-tokens",
+  "version": "1.0.0",
+  "description": "Design tokens for FitQuest Fitness Tracker",
+  "main": "tokens.json",
+  "scripts": {
+    "build": "node scripts/convert-to-figma.js",
+    "export": "npm run build"
+  },
+  "keywords": ["design-tokens", "figma", "design-system"],
+  "author": "FitQuest Team",
+  "license": "MIT"
+}
