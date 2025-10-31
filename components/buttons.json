@@ -1,0 +1,41 @@
+{
+  "button": {
+    "primary": {
+      "background": "{colors.brand.primary}",
+      "text": "{colors.text.inverse}",
+      "border": "none",
+      "borderRadius": "{borderRadius.md}",
+      "padding": "{spacing.3} {spacing.6}",
+      "typography": "{typography.button.primary}",
+      "states": {
+        "hover": {
+          "background": "{colors.primary.600}"
+        },
+        "focus": {
+          "background": "{colors.primary.600}",
+          "shadow": "0 0 0 3px {colors.primary.100}"
+        },
+        "disabled": {
+          "background": "{colors.ui.disabled}",
+          "text": "{colors.text.disabled}"
+        }
+      }
+    },
+    "secondary": {
+      "background": "transparent",
+      "text": "{colors.brand.primary}",
+      "border": "1px solid {colors.brand.primary}",
+      "borderRadius": "{borderRadius.md}",
+      "padding": "{spacing.3} {spacing.6}",
+      "typography": "{typography.button.primary}"
+    },
+    "destructive": {
+      "background": "{colors.ui.error}",
+      "text": "{colors.text.inverse}",
+      "border": "none",
+      "borderRadius": "{borderRadius.md}",
+      "padding": "{spacing.3} {spacing.6}",
+      "typography": "{typography.button.primary}"
+    }
+  }
+}
