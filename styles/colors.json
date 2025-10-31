@@ -1,0 +1,27 @@
+{
+  "brand": {
+    "primary": "#4A6CF7",
+    "secondary": "#2ECC71",
+    "accent": "#FF6B35"
+  },
+  "ui": {
+    "background": "#F8F9FA",
+    "surface": "#FFFFFF",
+    "primary": "#4A6CF7",
+    "success": "#2ECC71",
+    "warning": "#FFA500",
+    "error": "#FF3B30",
+    "disabled": "#E8EAED"
+  },
+  "text": {
+    "primary": "#202124",
+    "secondary": "#5F6368",
+    "disabled": "#9AA0A6",
+    "inverse": "#FFFFFF"
+  },
+  "border": {
+    "light": "#E8EAED",
+    "medium": "#DADCE0",
+    "dark": "#BDC1C6"
+  }
+}
